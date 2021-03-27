@@ -153,6 +153,7 @@ h6 {
 .tab-item {
     display: flex;
     flex-wrap: wrap;
+    box-shadow: 0 0 3px 0 black;
 }
 .tabs-content__item {
     /*display: block;*/
